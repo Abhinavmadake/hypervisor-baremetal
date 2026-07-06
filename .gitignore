@@ -1,0 +1,11 @@
+*.log
+*.o
+*.bin
+*.macho
+hv_daemon
+hv_client
+hv_host
+hv_test
+print_size
+time_test
+attic/
